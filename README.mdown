@@ -6,8 +6,7 @@ It is a view controller with delegate based call backs.
 
 Implement the delegate methods, create an instance of the lock screen controller and tell it to show in a particular window and the rest is handled for you.
 
-![JSLockScreen](http://cl.ly/16191h3j0G1f121Z2X0I/Screen_shot_2011-04-13_at_01.02.36.png "JSLockScreen")
-
+![JSLockScreen](http://cl.ly/16191h3j0G1f121Z2X0I/Screen_shot_2011-04-13_at_01.02.36.png)
 License:
 
 Copyright (c) 2011, James Addyman, JamSoft
